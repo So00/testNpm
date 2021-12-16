@@ -1,0 +1,19 @@
+{
+  "name": "testunpkg",
+  "version": "1.0.0",
+  "description": "This is just a cdn test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/So00/testNpm.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/So00/testNpm/issues"
+  },
+  "homepage": "https://github.com/So00/testNpm#readme"
+}
