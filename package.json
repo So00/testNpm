@@ -1,6 +1,6 @@
 {
   "name": "test_unpkg_ok",
-  "version": "1.0.1-dev",
+  "version": "1.0.0-dev-1",
   "description": "This is just a cdn test",
   "main": "index.js",
   "scripts": {
